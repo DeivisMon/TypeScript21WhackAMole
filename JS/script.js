@@ -14,7 +14,7 @@ function displayMole() {
     moleTimeout = setTimeout(() => {
         square.classList.remove('mole');
         displayMole();
-    }, 1000);
+    }, 750);
 }
 
 squares.forEach(square => {
