@@ -32,4 +32,4 @@ squares.forEach(square => {
 displayMole();
 
 // Change mouse cursor to image
-document.body.style.cursor = 'url("cursor.png"), auto';
+document.body.style.cursor = 'url("https://w7.pngwing.com/pngs/649/453/png-transparent-the-legend-of-zelda-tri-force-heroes-the-legend-of-zelda-the-minish-cap-link-whac-a-mole-hammer-hammer-game-orange-technic.png"), auto';
