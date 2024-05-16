@@ -23,7 +23,7 @@ body {
   background-color: #212121;
   width: 380px;
   height: 350px;
-  box-shadow: inset 11px 21px 5px 10px rgb(188, 41, 41);
+  box-shadow: inset 1px 1px 5px 10px rgb(188, 41, 41);
 }
 
 .overlay {

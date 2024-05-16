@@ -21,7 +21,7 @@ let playerMoney = 100;
     // Function to spin the sections
     function resetSectionColors() {
         sections.forEach(section => {
-            section.style.backgroundColor = 'white';
+            section.style.backgroundColor = 'rgba(255,253,253,0.83)';
         });
     }
 
